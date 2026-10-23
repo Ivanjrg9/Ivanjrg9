@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ivan-ramos-gamarra-438559402"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ivan%20Ramos%20Gamarra-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ivanjoseramos@icloud.com"><img alt="Correo" src="https://img.shields.io/badge/Correo-ivanjoseramos%40icloud.com-555555?style=flat&logo=icloud&logoColor=white"></a>
+  <a href="mailto:ramosgamarraivanjose@yahoo.es"><img alt="Correo" src="https://img.shields.io/badge/Correo-ramosgamarraivanjose%40yahoo.es-6001D2?style=flat&logo=yahoo&logoColor=white"></a>
 </p>
 
 ## Sobre mí
@@ -46,4 +46,4 @@ Me estoy formando en desarrollo web y construyo aplicaciones de principio a fin:
 ## Contacto
 
 - LinkedIn: [Ivan Ramos Gamarra](https://www.linkedin.com/in/ivan-ramos-gamarra-438559402)
-- Correo: [ivanjoseramos@icloud.com](mailto:ivanjoseramos@icloud.com)
+- Correo: [ramosgamarraivanjose@yahoo.es](mailto:ramosgamarraivanjose@yahoo.es)
