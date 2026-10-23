@@ -38,6 +38,7 @@ Me estoy formando en desarrollo web y construyo aplicaciones de principio a fin:
 
 | Proyecto | Descripción |
 |---|---|
+| [ComisionaTe](https://github.com/Ivanjrg9/comisionate) | Plataforma web que conecta empresas de placas solares con comerciales a comisión. Next.js, TypeScript, Tailwind y Supabase, con pruebas (Vitest y Playwright). |
 | [EJERCICIOS-DAW-2026](https://github.com/Ivanjrg9/EJERCICIOS-DAW-2026) | Ejercicios y prácticas de programación en Java (1º DAW): bucles, vectores, matrices, métodos y juegos. |
 | [Repositorio_Programaci-n](https://github.com/Ivanjrg9/Repositorio_Programaci-n) | Programación orientada a objetos en Java: clases, herencia, interfaces y colecciones. |
 | [EntornosEvaluacionFinal](https://github.com/Ivanjrg9/EntornosEvaluacionFinal) | Entornos de desarrollo: proyecto Java con Maven y pruebas unitarias con JUnit. |
